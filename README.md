@@ -1,7 +1,5 @@
 # 🏥 WCTC Healthcare System – Birth Registry Module
 
-![WCTC Healthcare System Logo](docs/wctc-logo.png)
-
 **A comprehensive educational module simulating real-world birth registry data entry and management.**
 
 > **Status:** Completed (Fall 2025)
@@ -25,7 +23,7 @@ Birth registry documentation requires precision and adherence to procedural stan
 
 | Login Screen | Homepage |
 | :---: | :---: |
-| ![Login Screen](docs/login.png) | ![Homepage Dashboard](docs/homepage.png) |
+| ![Login Screen](login.png) | ![Homepage Dashboard](homepage.png) |
 
 ### 2. Patient Search
 *To prevent duplicate records, users can search the existing patient database to auto-populate mother and father details before creating a new birth record.*
