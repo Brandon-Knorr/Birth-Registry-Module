@@ -23,31 +23,31 @@ Birth registry documentation requires precision and adherence to procedural stan
 
 | Login Screen | Homepage |
 | :---: | :---: |
-| ![Login Screen](login.png) | ![Homepage Dashboard](registryHomepage.png) |
+| ![Login Screen](login.png) | ![Homepage Dashboard](registryHomePage.png) |
 
 ### 2. Patient Search
 *To prevent duplicate records, users can search the existing patient database to auto-populate mother and father details before creating a new birth record.*
 
-![Search Feature](docs/search.png)
+![Search Feature](searchFeature.png)
 
 ### 3. Archive & History
 *The archive section allows students to review past entries, ensuring that all birth records are properly stored and retrievable for auditing or corrections.*
 
-![Archive Section](docs/archive.png)
+![Archive Section](registryArchive.png)
 
 ### 4. Viewing Records
 *Detailed read-only views allow registrars to verify data across multiple categories (Facility, Parents, Clinical History, Newborn).*
 
 | View Detail 1 | View Detail 2 |
 | :---: | :---: |
-| ![View Record 1](docs/view1.png) | ![View Record 2](docs/view2.png) |
+| ![View Record 1](view1.png) | ![View Record 2](view3.png) |
 
 ### 5. Managing Data (Edit & Delete)
 *Students can practice maintaining data integrity by editing existing records to fix errors or deleting invalid entries when necessary.*
 
 | Edit Screen 1 | Edit Screen 2 | Delete Confirmation |
 | :---: | :---: | :---: |
-| ![Edit Record 1](docs/edit1.png) | ![Edit Record 2](docs/edit2.png) | ![Delete Record](docs/delete.png) |
+| ![Edit Record 1](edit1.png) | ![Edit Record 2](editComplete.png) | ![Delete Record](deleteFunction.png) |
 
 ---
 
