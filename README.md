@@ -23,7 +23,7 @@ Birth registry documentation requires precision and adherence to procedural stan
 
 | Login Screen | Homepage |
 | :---: | :---: |
-| ![Login Screen](login.png) | ![Homepage Dashboard](homepage.png) |
+| ![Login Screen](login.png) | ![Homepage Dashboard](registryHomepage.png) |
 
 ### 2. Patient Search
 *To prevent duplicate records, users can search the existing patient database to auto-populate mother and father details before creating a new birth record.*
